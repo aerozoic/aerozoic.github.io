@@ -19,7 +19,7 @@ url: ''
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdownhammerman1
-theme: minimahammerman1
+theme: minima
 gems:
 - jekyll-feed
 exclude:
