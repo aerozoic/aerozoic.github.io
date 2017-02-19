@@ -18,8 +18,8 @@ baseurl: ''
 url: ''
 twitter_username: jekyllrb
 github_username: jekyll
-markdown: kramdown
-theme: jekyll-theme-minimal
+markdown: kramdownhammerman1
+theme: midnight
 gems:
 - jekyll-feed
 exclude:
